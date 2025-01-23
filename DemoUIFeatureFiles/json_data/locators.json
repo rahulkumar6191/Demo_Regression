@@ -1,0 +1,17 @@
+{
+    "search_bar": {
+        "value": "//input[@role='combobox']"
+    },
+    "search_button": {
+        "value": "//button[@type='submit']"
+    },
+    "first_item": {
+        "value": "//div[@class='srp-river-results clearfix']/child::ul/li/div/div[@class='s-item__info clearfix']/a"
+    },
+    "add_to_cart_button": {
+        "value": "//a[@href='https://cart.payments.ebay.com/sc/add']"
+    },
+    "cart_count": {
+        "value": "span.badge"
+    }
+}
